@@ -43,7 +43,7 @@ function firstPrompt() {
       name: "task",
       message: "Would you like to do?",
       choices: [
-        "View Employees",
+        "View All Employees",
         "View Employees by Department",
         "Add Employee",
         "Remove Employees",
