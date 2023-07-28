@@ -50,7 +50,10 @@ So that I can organize and plan my business
 9. run through prompts as required
 
 ## Repository
+The repo for this project can be found here: https://github.com/metayerkinson/Employee-tracker
 
+## walkthrough video
+ The link to the walkthrough video can be found here: https://gemoo.com/tools/upload-video/share/543591734572134400?codeId=vz3QeXgRdjAoO&card=543591731669676032&origin=videolinkgenerator
 ## Contributions
 
 2. No front end files required.
